@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-Me chamo Fernando Sualet de Quadros, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Sesi de São Leopoldo, com o curso técnico em Desenhista Mecânico com ênfase em CAD. Atualmente, estou cursando Ciência da Computação na Universidade Unisinos. Sou apaixonado por tecnologia.
+Me chamo Fernando Sualet de Quadros, tenho 19 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Sesi de São Leopoldo, com o curso técnico em Desenhista Mecânico com ênfase em CAD. Atualmente, estou cursando Ciência da Computação na Universidade Unisinos. Sou apaixonado por tecnologia.
 
 ---
 
